@@ -20,7 +20,19 @@
 }
 
 .carousel-caption {
-    bottom: 160px;
+    top: 10;
+    bottom: 150px;
+}
+
+.carousel-caption h1{
+    font-size: 30px;
+    font-weight: 800;
+    color: #252939;
+}
+
+.carousel-caption p{
+    font-size: 16px;
+    color: #252939;
 }
 
 .footer-icons {
